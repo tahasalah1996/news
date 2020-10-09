@@ -1,9 +1,3 @@
-name: mocki
-port: 3000
-endpoints:
-  - path: /hello
-    method: get
-    responses:
-      - statusCode: 200
-        body:
-          message: Hello from Mocki!
+[
+{"name":"taha salah ","imgurl":"https:\/\/www.alsharqiya.com\/Content\/admin-assets\/uploads\/news\/718837_image_3.jpg","bio":"\t ok for now"}
+]
